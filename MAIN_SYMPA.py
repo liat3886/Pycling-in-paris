@@ -3,7 +3,7 @@
 import pandas as pd
 import streamlit as st
 from PIL import Image 
-import shap
+#import shap
 import xgboost as xgb
 from xgboost import plot_importance
 
