@@ -4,8 +4,8 @@ import pandas as pd
 import streamlit as st
 from PIL import Image 
 #import shap
-import xgboost as xgb
-from xgboost import plot_importance
+#import xgboost as xgb
+#from xgboost import plot_importance
 
 st.set_page_config(layout="wide")
 # st.image(img,caption='image credit "le monde"',)
